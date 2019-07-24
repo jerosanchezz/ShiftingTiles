@@ -20,6 +20,12 @@ ShiftingTiles is a picture puzzle game. Solve the puzzle by shifting the tiles!
 
 • Suitable for all ages.
 
+# Contact Us
+
+If you have any questions or suggestions about our app, do not hesitate to contact us.
+
+Email: shiftingtiles@gmail.com
+
 
 ## Privacy Policy
 
@@ -51,4 +57,4 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
 
-Email: fxiaoding@gmail.com
+Email: shiftingtiles@gmail.com
